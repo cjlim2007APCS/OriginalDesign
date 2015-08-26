@@ -16,6 +16,7 @@ public class OriginalDesign extends PApplet {
 
 public void setup()
 {
+	background(255,255,255);
 	size(512,512);
 }
 
